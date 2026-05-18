@@ -59,5 +59,5 @@ customer-churn-analysis/
 └── requirements.txt
 
 **## Dashboard**
-![Dashboard](images/screenshot.png)
+(https://github.com/M-1231/Customer_churn_analaysis/blob/main/Customer_churn_analysis/images/Screenshot%202026-05-18%20153234.png)
 
