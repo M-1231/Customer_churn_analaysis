@@ -57,3 +57,7 @@ customer-churn-analysis/
 ├── images/
 ├── README.md
 └── requirements.txt
+
+## Dashboard
+<img width="1322" height="749" alt="image" src="https://github.com/user-attachments/assets/7afb29d5-ff56-40b0-8942-3126a928a043" />
+
