@@ -56,4 +56,4 @@ customer-churn-analysis/
 ├── powerbi/
 ├── images/
 ├── README.md
-└── requirements.t
+└── requirements.txt
