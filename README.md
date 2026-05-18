@@ -59,6 +59,25 @@ customer-churn-analysis/
 └── requirements.txt
 ```
 
+## Automated Executive Summary
+
+A custom Python function (`generate_executive_summary()`) automatically generates executive-ready insights by summarizing:
+
+- Total, churned, and retained customers
+- Churn and retention rates
+- Monthly revenue at risk
+- Tenure and satisfaction comparisons
+- Support ticket and late payment behavior
+- High-risk contract and payment segments
+- Top churn reasons
+
+### Output Formats
+- Text
+- Markdown
+- Dictionary (for programmatic use)
+
+This automation reduces manual reporting effort and demonstrates AI-driven analytics and business storytelling capabilities.
+
 ---
 ## Dashboard Preview
 
