@@ -46,8 +46,11 @@ Poor Service Experience accounts for 33% of total churn.
 ### 2. Target High-Risk Customers (High Priority)
 Customers on month-to-month contracts paying by electronic check show a 49.8% churn rate.
 **Expected Impact:** Focused retention campaigns can protect approximately $32.5K in monthly revenue.
+
 **Revenue at risk**: $32.5K/month
+
 **Assumed churn reduction**: 20%
+
 **Potential savings**: $32,534 × 20% = $6,507 per month.
 
 ### 3. Promote Long-Term Contracts (Medium Priority)
