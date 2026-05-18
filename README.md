@@ -61,5 +61,5 @@ customer-churn-analysis/
 ---
 ## Dashboard Preview
 
-![Customer Churn Dashboard](images/Dashboard.png)
+![Customer Churn Dashboard](Customer_churn_analysis/images/Dashboard.png)
 
