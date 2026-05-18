@@ -39,23 +39,45 @@ Customer churn reduces recurring revenue and increases acquisition costs. The ob
 
 ## Business Recommendations
 
-1. Improve service quality and support.
-2. Promote longer-term contracts.
-3. Encourage AutoPay adoption.
-4. Proactively target high-risk customers.
+### 1. Improve Service Quality (High Priority)
+Poor Service Experience accounts for 33% of total churn.
+**Expected Impact:** Addressing this issue can significantly reduce customer attrition and improve satisfaction.
+
+### 2. Target High-Risk Customers (High Priority)
+Customers on month-to-month contracts paying by electronic check show a 49.8% churn rate.
+**Expected Impact:** Focused retention campaigns can protect approximately $32.5K in monthly revenue.
+**Revenue at risk**: $32.5K/month
+**Assumed churn reduction**: 20%
+**Potential savings**: $32,534 × 20% = $6,507 per month.
+
+### 3. Promote Long-Term Contracts (Medium Priority)
+Month-to-month customers churn more frequently than annual contract customers.
+**Expected Impact:** Longer contracts increase retention and revenue stability.
+
+### 4. Encourage AutoPay Adoption (Medium Priority)
+Electronic check users exhibit higher churn rates.
+**Expected Impact:** Automatic payments reduce friction and improve customer stickiness.
+
+### 5. Enhance Customer Support (Medium Priority)
+Churned customers tend to raise more support tickets.
+**Expected Impact:** Faster issue resolution can improve customer satisfaction and loyalty.
+
+### 6. Implement Satisfaction Monitoring (Low Priority)
+Customers with lower satisfaction scores are more likely to churn.
+**Expected Impact:** Early intervention can reduce future churn.
 
 ---
 
 ## Project Structure
 
 ```text
+README.md
 customer-churn-analysis/
 ├── data/
 ├── sql/
 ├── notebooks/
 ├── powerbi/
 ├── images/
-├── README.md
 └── requirements.txt
 ```
 
