@@ -57,9 +57,9 @@ customer-churn-analysis/
 ├── images/
 ├── README.md
 └── requirements.txt
+```
 
 ---
 ## Dashboard Preview
 
-![Customer Churn Dashboard](Customer_churn_analaysis/images/Dashboard.png)
-
+![Customer Churn Dashboard](https://raw.githubusercontent.com/M-1231/Customer_churn_analaysis/main/images/Dashboard.png)
