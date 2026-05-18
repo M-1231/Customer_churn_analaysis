@@ -62,4 +62,4 @@ customer-churn-analysis/
 ---
 ## Dashboard Preview
 
-![Customer Churn Dashboard](https://raw.githubusercontent.com/M-1231/Customer_churn_analaysis/main/images/Dashboard.png)
+![Customer Churn Dashboard](https://raw.githubusercontent.com/M-1231/Customer_churn_analaysis/main/Customer_churn_analysis/images/Dashboard.png)
