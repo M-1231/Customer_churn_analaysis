@@ -59,7 +59,7 @@ customer-churn-analysis/
 └── requirements.txt
 
 ---
-## Dashboard
+## Dashboard Preview
 
-![Customer Churn Dashboard](images/Screenshot%202026-05-18%20153234.png)
+![Customer Churn Dashboard](images/Dashboard.png)
 
